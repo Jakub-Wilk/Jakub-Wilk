@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a first-year student at the Kraków Univeristy of Economics.
+Sometimes working on side projects in my free time.
+
 <!--
 **Jakub-Wilk/Jakub-Wilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
