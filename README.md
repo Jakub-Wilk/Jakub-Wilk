@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a first-year student at the Kraków Univeristy of Economics.
+I'm a first-year student at the College of Economics and Computer Science in Kraków.
 Sometimes working on side projects in my free time.
 
 <!--
