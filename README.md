@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a first-year student at the College of Economics and Computer Science in Kraków.
-Sometimes working on side projects in my free time.
+I'm a junior fullstack developer at media-press.tv. I mainly work in Python and Typescript (currently the Django/Next.js stack)
 
 <!--
 **Jakub-Wilk/Jakub-Wilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
